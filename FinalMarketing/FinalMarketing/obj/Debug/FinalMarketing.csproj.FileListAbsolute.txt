@@ -1,0 +1,12 @@
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\FinalMarketing\FinalMarketing\bin\Debug\FinalMarketing.exe.config
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\FinalMarketing\FinalMarketing\bin\Debug\FinalMarketing.exe
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\FinalMarketing\FinalMarketing\bin\Debug\FinalMarketing.pdb
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\FinalMarketing\FinalMarketing\obj\Debug\FinalMarketing.csprojResolveAssemblyReference.cache
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\FinalMarketing\FinalMarketing\obj\Debug\FinalMarketing.Form1.resources
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\FinalMarketing\FinalMarketing\obj\Debug\FinalMarketing.Properties.Resources.resources
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\FinalMarketing\FinalMarketing\obj\Debug\FinalMarketing.csproj.GenerateResource.Cache
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\FinalMarketing\FinalMarketing\obj\Debug\FinalMarketing.exe
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\FinalMarketing\FinalMarketing\obj\Debug\FinalMarketing.pdb
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\FinalMarketing\FinalMarketing\bin\Debug\MySql.Data.dll
+C:\Users\Gary Lloyd Senoc\Documents\Visual Studio 2013\Projects\FinalMarketing\FinalMarketing\obj\Debug\FinalMarketing.FINALIZE.resources
+C:\Users\Gary Lloyd Senoc\Documents\Visual Studio 2013\Projects\FinalMarketing\FinalMarketing\obj\Debug\FinalMarketing.login.resources
